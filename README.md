@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Greg Slowski and I am a current Software Engineering MEng student at the University of Calgary. I am currently learning full stack development where I now have exposure to Java, Python, C / C++, HTML / CSS / Javascript with React, SQL, and PySpark. I am passionate about data analytics (especially in relation to sports), front end development, and video game development. I have a background in Mechanical Engineering so finding ways to incorporate that knowledge base is something I am always pursuing.
+My name is Greg Slowski and I am a current Software Engineering MEng student at the University of Calgary. I am currently learning full stack development where I now have exposure to Java, Python, C / C++, HTML / CSS / Javascript with React, SQL, and PySpark. I am passionate about data analytics (especially in the world of sports), front end development, and video game development. I have a background in Mechanical Engineering so finding ways to incorporate that knowledge base is something I am always pursuing.
 
 <!-- ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslowski)](https://github.com/anuraghazra/github-readme-stats)
